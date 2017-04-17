@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>streamers.json</file>
+        <file>twitch_auth.json</file>
+        <file>Streamer.qml</file>
+    </qresource>
+</RCC>
